@@ -348,7 +348,7 @@ header {
 }
 
 .slider__title {
-    font-family: var(--alternative-font);
+    font-family: var(--base-font);
     font-size: var(--font-display);
     text-transform: uppercase;
 
